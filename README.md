@@ -87,6 +87,6 @@ pytest
 
 ## 💡 Contato
 
-- **LinkedIn:** [Seu LinkedIn](https://www.linkedin.com/in/gabrielasantosmotta/)  
+- **LinkedIn:** [LinkedIn](https://www.linkedin.com/in/gabrielasantosmotta/)  
 - **E-mail:** gbss.santos1707@gmail.com
 
